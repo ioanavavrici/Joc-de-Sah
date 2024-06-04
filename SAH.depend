@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1715164026 source:c:\users\vavri\onedrive\desktop\poo proiect\sah\piese.cpp
+	"Piese.h"
+	<iostream>
+	<string>
+
+1714668987 c:\users\vavri\onedrive\desktop\poo proiect\sah\piese.h
+	<iostream>
+	<string>
+
+1717501871 source:c:\users\vavri\onedrive\desktop\poo proiect\sah\tabla_de_sah.cpp
+	"Tabla_de_sah.h"
+	<iostream>
+	"Piese.h"
+
+1717427500 c:\users\vavri\onedrive\desktop\poo proiect\sah\tabla_de_sah.h
+	<iostream>
+	"Piese.h"
+
+1717424867 source:c:\users\vavri\onedrive\desktop\poo proiect\sah\main.cpp
+	<iostream>
+	<string>
+	"Tabla_de_sah.h"
+	"Logica_joc.h"
+	"Piese.h"
+	"Joc.h"
+
+1717500226 c:\users\vavri\onedrive\desktop\poo proiect\sah\logica_joc.h
+	<iostream>
+	<string>
+	"Piese.h"
+	"Tabla_de_sah.h"
+
+1717507490 source:c:\users\vavri\onedrive\desktop\poo proiect\sah\logica_joc.cpp
+	"Logica_joc.h"
+	<iostream>
+	<cmath>
+	<string>
+	"Tabla_de_sah.h"
+
+1717501762 source:c:\users\vavri\onedrive\desktop\poo proiect\sah\joc.cpp
+	"Joc.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	"Tabla_de_sah.h"
+	"Logica_joc.h"
+	"Piese.h"
+
+1714730447 c:\users\vavri\onedrive\desktop\poo proiect\sah\joc.h
+	<iostream>
+	<string>
+	"Tabla_de_sah.h"
+	"Logica_joc.h"
+	"Piese.h"
+
